@@ -1,6 +1,6 @@
-💡 I'm a software developer and xollege student<br />
-💻  I'm currently working on developing innvative and easy to use Android applications  <br />
-🎓 I'm studying computer science in Faculty of Electrical Engineering, Computer Science and Information Technology Osijek<br />
+💡 I'm a software developer and college student<br />
+💻  I'm currently working on developing innovative and easy-to-use Android applications  <br />
+🎓 I'm studying computer science in the Faculty of Electrical Engineering, Computer Science and Information Technology Osijek<br />
 🌱  I'm on track for learning Android applications<br />
 ✍️  In my free time, I enjoy being outside playing any sport or walking my dog<br />
 ✉️  You can email me at lukicante0@gmail.com. I'll try to respond as soon as possible!<br />
