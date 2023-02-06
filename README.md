@@ -1,7 +1,7 @@
-💡 I'm a software developer and college student<br />
+💡  I'm a software developer and college student<br />
 💻  I'm currently working on developing innovative and easy-to-use Android applications  <br />
-🎓 I'm studying computer science in the Faculty of Electrical Engineering, Computer Science and Information Technology Osijek<br />
+🎓  I'm studying computer science in the Faculty of Electrical Engineering, Computer Science and Information Technology Osijek from where I have a Bachelor's degree<br />
 🌱  I'm on track for learning Android applications<br />
-✍️  In my free time, I enjoy being outside playing any sport or walking my dog<br />
-✉️  You can email me at lukicante0@gmail.com. I'll try to respond as soon as possible!<br />
-📄  You can check my [Resume](https://drive.google.com/file/d/1hpbVHGJub7VADJ1M9rxf1u8IY9im8_-O/view?fbclid=IwAR0u-6IgGxy7sPF6c1Sjyxiep7x6H9QoFSz12Ra6Cm0pENhvQeCR0ikChwI) for more details about work experience.
+✍️   In my free time, I enjoy watching Netflix or spending time with friends<br />
+✉️   You can email me at lukicante0@gmail.com. I'll try to respond as soon as possible!<br />
+📄  You can check my [Resume](https://drive.google.com/file/d/1i_hTSjo4-x3Vnjm9Hxst-SWtJeo2dT7A/view?usp=sharing) for more details about work experience.
